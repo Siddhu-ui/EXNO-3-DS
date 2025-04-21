@@ -1,7 +1,10 @@
+## DEVELOPED BY : SIDDHARTH S
+## REGISTER NO: 212224040317
+
 ## EXNO-3-DS
 
 # AIM:
-To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
+## To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
 
 # ALGORITHM:
 STEP 1:Read the given Data.
@@ -31,8 +34,33 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
+![DS exp 3 ipynb - Colab_page-0001](https://github.com/user-attachments/assets/ffab6170-51a1-43c9-bd4f-2b616291dddc)
+
+
+![DS exp 3 ipynb - Colab_page-0002](https://github.com/user-attachments/assets/b24f4743-cbef-4f49-9805-25876220fd79)
+
+
+![DS exp 3 ipynb - Colab_page-0003](https://github.com/user-attachments/assets/414bb2f0-bf8e-4059-8068-739df119f41c)
+
+
+![DS exp 3 ipynb - Colab_page-0004](https://github.com/user-attachments/assets/57acbf80-36e5-49cd-b736-5e1e0a278ea5)
+
+
+![DS exp 3 ipynb - Colab_page-0005](https://github.com/user-attachments/assets/2b47b1e9-fb0f-4623-a985-71ea5851e6bf)
+
+
+![DS exp 3 ipynb - Colab_page-0006](https://github.com/user-attachments/assets/e71dee05-140b-4d8b-a31e-b0a3fe65d0e5)
+
+
+![DS exp 3 ipynb - Colab_page-0008](https://github.com/user-attachments/assets/8786e792-ffaa-4921-bb59-44f6a0e275fa)
+
+
+![DS exp 3 ipynb - Colab_page-0009](https://github.com/user-attachments/assets/690b6dd2-7859-4f1a-b032-33c10f1e3f5e)
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+
+Data successfully read, encoded, transformed, and saved as processed_data.csv.
 
        
